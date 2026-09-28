@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Antonio Moreno Lara");
          System.out.println("Cristian Navaro Lòpez");
         System.out.println("Antonio Moreno 2");
+         System.out.println("Nueva línea: Cristian Navaro Lòpez");
+
         }
     }
